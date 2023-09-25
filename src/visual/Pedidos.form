@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.ButtonGroup" name="GrupoDePanes">
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.ButtonGroup" name="GrupoDeCarnes">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="Arma tu Carls"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="54" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="TotalDelPedido" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="BotonDeEnviar" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="387" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="LogoEmpresa" min="-2" max="-2" attributes="0"/>
+                          <Component id="hamburguesalogo" min="-2" max="-2" attributes="0"/>
+                          <Component id="logoHamburguesaAzul" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="158" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Component id="nocebolla" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" attributes="0">
+                                                      <Component id="nojitomate" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="nolechuga" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="noqueso" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                                                      <Component id="nomayonesa" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Group type="102" attributes="0">
+                                                      <EmptySpace min="-2" pref="198" max="-2" attributes="0"/>
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Component id="cocanoazucarcheck" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="cielcheck" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Component id="preciocieltext" min="-2" max="-2" attributes="0"/>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="salsaportobello" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Component id="extraportobellotext" min="-2" max="-2" attributes="0"/>
+                                                          </Group>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="salsadequeso" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="mostazadulce" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="pepinillos" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="jalapeños" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="salsaranch" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="salsabbq" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="salsabuffalo" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="mostaza" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="mayonesa" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="ketchup" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="extrajalapeñostext" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="extrapepinillostext" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="extramostazadulcetext" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="extraquesotext" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="extraranchtext" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="extrabbqtext" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="extrabuffalotext" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="extramostazatext" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="extramayonesatext" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="extracatsuptext" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                          </Group>
+                                                          <Component id="Acompanamientotext" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="aderezotext" min="-2" max="-2" attributes="0"/>
+                                                          <Group type="102" alignment="0" attributes="0">
+                                                              <Component id="papascheck" min="-2" max="-2" attributes="0"/>
+                                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Component id="preciopapasmediatext" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                                  <Component id="preciococanoazucartext" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                              </Group>
+                                                              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                                  <Group type="102" attributes="0">
+                                                                      <Component id="aroscheck" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                                      <Component id="precioarostext" min="-2" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                                  <Group type="102" attributes="0">
+                                                                      <Component id="cocaoriginalcheck" min="-2" max="-2" attributes="0"/>
+                                                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                                      <Component id="preciococaorgtext" min="-2" max="-2" attributes="0"/>
+                                                                  </Group>
+                                                              </Group>
+                                                          </Group>
+                                                      </Group>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <Group type="103" alignment="0" groupAlignment="1" attributes="0">
+                                              <Component id="jSeparator1" alignment="1" min="-2" pref="458" max="-2" attributes="0"/>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+                                                  <Component id="Bienvenida" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="pantexto" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Component id="Boton1panAjon" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                                      <Component id="Boton2panliso" min="-2" max="-2" attributes="0"/>
+                                                  </Group>
+                                                  <Component id="perzonalizatext" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="carnederes" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="Carnetexto" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace max="-2" attributes="0"/>
+                                              <Component id="carnevegana" min="-2" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Component id="salsatext" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="extrapechuga" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extraquesosui" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extraguacamole" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extrachilesantafe" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extrajitomate" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extrapiña" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extrachili" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extraquesoame" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="extrachilitext" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extrapiñatext" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extrajitomatetext" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extrachilesantafetext" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extraguacamoletext" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extraquesosuitext" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extraquesoametext" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extrapechugatext" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="extraangus" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extratocino" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extrapollobbq" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extracarne" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="extracarnetext" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extrapollobbqtext" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extratocinotext" min="-2" max="-2" attributes="0"/>
+                                                  <Component id="extraangustext" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                          <Component id="extratext" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+                                              <Component id="sinoSalsa" min="-2" pref="127" max="-2" attributes="0"/>
+                                          </Group>
+                                          <Component id="ComentariosCasilla" alignment="0" max="32767" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="258" max="-2" attributes="0"/>
+                                      <Component id="armatuhamburgesatexto" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="301" max="-2" attributes="0"/>
+                                      <Component id="nopepinillos" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="76" max="-2" attributes="0"/>
+                                      <Component id="nosalsa" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="63" pref="50" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="32767" attributes="0"/>
+                              <Component id="comentariostext" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="178" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="carnevegana" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="Bienvenida" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jSeparator1" min="-2" pref="10" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="armatuhamburgesatexto" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace pref="16" max="32767" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Component id="pantexto" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="Boton2panliso" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="Boton1panAjon" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <Component id="Carnetexto" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Component id="carnederes" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      <Component id="perzonalizatext" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="nocebolla" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nojitomate" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nolechuga" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="noqueso" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nomayonesa" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="nopepinillos" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="nosalsa" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="LogoEmpresa" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="aderezotext" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="salsaportobello" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="extraportobellotext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="salsadequeso" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="extraquesotext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="mostazadulce" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="extramostazadulcetext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="pepinillos" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="extrapepinillostext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jalapeños" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="extrajalapeñostext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="salsaranch" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="extraranchtext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="salsabbq" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="extrabbqtext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="salsabuffalo" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="extrabuffalotext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="mostaza" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="extramostazatext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="mayonesa" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="extramayonesatext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="ketchup" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="extracatsuptext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="Acompanamientotext" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="papascheck" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="preciopapasmediatext" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="cocaoriginalcheck" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="preciococaorgtext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="cocanoazucarcheck" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="preciococanoazucartext" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="aroscheck" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="precioarostext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="cielcheck" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="preciocieltext" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="salsatext" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="sinoSalsa" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Component id="extratext" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="extracarne" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="extracarnetext" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="extraangus" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="extraangustext" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="extratocino" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="extratocinotext" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="extrapollobbq" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="extrapollobbqtext" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="extrapechuga" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="extrapechugatext" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="extraquesoame" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="extraquesoametext" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="extraquesosui" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="extraquesosuitext" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Component id="hamburguesalogo" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="extraguacamole" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="extraguacamoletext" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="extrachilesantafe" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="extrachilesantafetext" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="extrajitomate" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="extrajitomatetext" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="extrapiña" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="extrapiñatext" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="extrachili" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="extrachilitext" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                                      <Component id="comentariostext" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                                      <Component id="ComentariosCasilla" min="-2" pref="116" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="logoHamburguesaAzul" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="TotalDelPedido" min="-2" max="-2" attributes="0"/>
+                  <Component id="BotonDeEnviar" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="28" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="LogoEmpresa">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/visual/fotos/OkOMoafq_400x400.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Bienvenida">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Franklin Gothic Medium" size="48" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="BIENVENIDO AL MENU"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="armatuhamburgesatexto">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Franklin Gothic Medium" size="36" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Arma tu Hamburguesa"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JSeparator" name="jSeparator1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="pantexto">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Tipo de Pan:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Boton1panAjon">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="GrupoDePanes"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ajonjoli"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Boton1panAjonActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="Boton2panliso">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="GrupoDePanes"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Pan liso de Mantequilla"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Boton2panlisoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Carnetexto">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Tipo de Carne:"/>
+        <Property name="alignmentY" type="float" value="0.4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="carnederes">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="GrupoDeCarnes"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Carne 100% de Res"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="carnederesActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JRadioButton" name="carnevegana">
+      <Properties>
+        <Property name="buttonGroup" type="javax.swing.ButtonGroup" editor="org.netbeans.modules.form.RADComponent$ButtonGroupPropertyEditor">
+          <ComponentRef name="GrupoDeCarnes"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Carne Vegana"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="carneveganaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="perzonalizatext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Personaliza tu Hamburguesa:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nocebolla">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Sin cebolla"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nocebollaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nojitomate">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Sin Jitomate"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nojitomateActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nolechuga">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Sin Lechuga"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nolechugaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="noqueso">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Sin Queso Americano"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="noquesoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nomayonesa">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Sin Mayonesa"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nomayonesaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nopepinillos">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Sin pepinillos"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nopepinillosActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nosalsa">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Sin salsa especial"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="nosalsaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="salsatext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xbf;Deseas tu Salsa Aparte?:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="aderezotext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xbf;Alguna Salsa Extra?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="sinoSalsa">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="2">
+            <StringItem index="0" value="No"/>
+            <StringItem index="1" value="Si"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="sinoSalsaActionPerformed"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_TypeParameters" type="java.lang.String" value="&lt;String&gt;"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="salsaportobello">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Salsa Portobello"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="salsaportobelloActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="salsadequeso">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Salsa de Queso"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="salsadequesoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="mostazadulce">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Mostaza Dulce"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mostazadulceActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="pepinillos">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Pepinillos"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="pepinillosActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jalape&#xf1;os">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Jalape&#xf1;os"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jalape&#xf1;osActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="salsaranch">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Salsa Ranch"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="salsaranchActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="salsabbq">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Salsa BBQ"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="salsabbqActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="salsabuffalo">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Salsa Buffalo"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="salsabuffaloActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="mostaza">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Mostaza"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mostazaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="mayonesa">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Mayonesa"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="mayonesaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="ketchup">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ketchup"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ketchupActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extraportobellotext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $28.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extraquesotext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $18.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extramostazadulcetext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $7.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extrapepinillostext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $7.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extrajalape&#xf1;ostext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $7.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extraranchtext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $7.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extrabbqtext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $7.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extrabuffalotext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $7.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extramostazatext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $2.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extramayonesatext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $2.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extracatsuptext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $2.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extratext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xbf;Deseas algun Extra?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extracarne">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Carne Extra"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extracarneActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extraangus">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Carne Angus Extra"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extraangusActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extratocino">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Tocino"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extratocinoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extrapollobbq">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Pollo BBQ"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extrapollobbqActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extrapechuga">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Pechuga Empanizada"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extrapechugaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extraquesoame">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Queso Americano"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extraquesoameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extraquesosui">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Queso Suizo"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extraquesosuiActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extraguacamole">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Guacamole"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extraguacamoleActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extrachilesantafe">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Chile Santa Fe"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extrachilesantafeActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extrajitomate">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Jitomate"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extrajitomateActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extrapi&#xf1;a">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Pi&#xf1;a"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extrapi&#xf1;aActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="extrachili">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Chili"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="extrachiliActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extracarnetext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $40.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extraangustext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $63.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extratocinotext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $22.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extrapollobbqtext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $50.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extrapechugatext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $50.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extraquesoametext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $14.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extraquesosuitext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $14.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extraguacamoletext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $18.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extrachilesantafetext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $12.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extrajitomatetext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $3.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extrapi&#xf1;atext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $16.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="extrachilitext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="(+ $37.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Acompanamientotext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="18" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#xbf;Desea Algun Acompa&#xf1;amiento?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="papascheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Papas a la francesa Medianas"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="papascheckActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="aroscheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Aros de Cebolla"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="aroscheckActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cocanoazucarcheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Coca-Cola Sin Azucar 600 ml"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cocanoazucarcheckActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cocaoriginalcheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Coca-Cola Original 600 ml"/>
+      </Properties>
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleName" type="java.lang.String" value="Coca-Cola Sin Azucar 600 ml"/>
+      </AccessibilityProperties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cocaoriginalcheckActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cielcheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ciel Natural 600 ml"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cielcheckActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="hamburguesalogo">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/visual/fotos/ezgif.com-gif-maker (5).png"/>
+        </Property>
+        <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[550, 550]"/>
+        </Property>
+        <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[550, 550]"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="ComentariosCasilla">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Events>
+        <EventHandler event="keyTyped" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="ComentariosCasillaKeyTyped"/>
+      </Events>
+      <AuxValues>
+        <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="1"/>
+      </AuxValues>
+    </Component>
+    <Component class="javax.swing.JLabel" name="comentariostext">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Franklin Gothic Medium" size="30" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Comentarios Adicionales de su pedido:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="BotonDeEnviar">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Enviar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="BotonDeEnviarActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="logoHamburguesaAzul">
+      <Properties>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+          <Image iconType="3" name="/visual/fotos/ezgif.com-gif-maker (5)azul.png"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="TotalDelPedido">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="0"/>
+        </Property>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="preciocieltext">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="(+ $28.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="precioarostext">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="(+ $58.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="preciopapasmediatext">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="(+ $51.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="preciococanoazucartext">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="(+ $44.00)"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="preciococaorgtext">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="(+ $44.00)"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
